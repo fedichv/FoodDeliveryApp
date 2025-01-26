@@ -1,4 +1,5 @@
 import UIKit
+
 enum CoordinatorType {
     case app
     case onboarding
